@@ -1,0 +1,15 @@
+{
+  "serverErrorHint": "服务器出现内部错误，请联系管理员进行修复",
+  "roomIDShouldBePosInt": "格式错误，房间ID必须为正整数",
+  "rolePainter": "绘画",
+  "roleAudience": "旁观",
+  "roleGuessing": "猜谜中",
+  "roleGuessed": "已猜出",
+  "disconnected": "掉线",
+  "rolePerpared": "准备",
+  "rolePreparing": "准备中",
+  "roomError": "房间出现错误",
+  "roomOnGame": "游戏中",
+  "roomPreparing": "准备中",
+  "roomPaused": "游戏暂停……"
+}
